@@ -1,5 +1,5 @@
 # NASA API Project
-### <a href="https://mssalemi.github.io/" target="_blank">Project can be seen here</a>
+### <a href="https://mssalemi.github.io/fed-intern-shopify" target="_blank">Project can be seen here</a>
 
 This project is for my application as a Intern - Front End Web Developer at Shopify. I am currently working as a Senior Support Specailist - Front End Developer with Shopify Plus. 
 
@@ -22,7 +22,7 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 ![Screen Shot 2021-09-15 at 11 24 32 AM](https://user-images.githubusercontent.com/16329347/133462430-c3a58d6f-12dd-4369-8688-2cba4ee28013.png)
 
 
-## [This project has been deployed to GH-Pages and can be seen here](https://mssalemi.github.io/).
+## [This project has been deployed to GH-Pages and can be seen here](https://mssalemi.github.io/fed-intern-shopify).
 
 # About Me
 I'm Mehdi Salemi, I am a full-stack web developer. I love front end, but have knowledge in the back end aswell. 

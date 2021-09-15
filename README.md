@@ -1,5 +1,5 @@
 # NASA API Project
-### <a href="https://mssalemi.github.io/fed-intern-shopify" target="_blank">Project can be seen here</a>
+### <a href="https://mssalemi.github.io/fed-intern-shopify" target="_blank">Project can be seen here</a>\
 
 This project is for my application as a Intern - Front End Web Developer at Shopify. I am currently working as a Senior Support Specailist - Front End Developer with Shopify Plus. 
 

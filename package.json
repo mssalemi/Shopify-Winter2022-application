@@ -2,7 +2,7 @@
   "name": "polariskitnasa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mssalemi.github.io/react-gh-pages",
+  "homepage": "https://mssalemi.github.io/fed-intern-shopify",
   "dependencies": {
     "@shopify/polaris": "^6.6.0",
     "@testing-library/jest-dom": "^5.11.4",

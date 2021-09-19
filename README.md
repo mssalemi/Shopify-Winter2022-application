@@ -35,5 +35,5 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 # About Me
 👋 I'm Mehdi Salemi, I am a full-stack web developer 💻 <br>
 👨‍💻 I am a Front End Developer with Shopify Plus Support ➕ <br>
-💪 I used to run a gym, and love golfing. ⛳️ <br>
+💪 Outside of coding, you can catch me working out or golfing ⛳️ <br>
 

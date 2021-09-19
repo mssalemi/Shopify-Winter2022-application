@@ -33,7 +33,7 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 - GH-pages deployment, I am not too familiar with deploying my react applications to GH-pages, and there is an error when refreshing the page, but please visit https://mssalemi.github.io/fed-intern-shopify to see project if you are recieving a 404 page. 
 
 # About Me
-👋 I'm Mehdi Salemi, I am a full-stack web developer 💻
-👨‍💻 I am a Front End Developer with Shopify Plus Support ➕
-💪 I used to run a gym, and love golfing. ⛳️
+👋 I'm Mehdi Salemi, I am a full-stack web developer 💻 <br>
+👨‍💻 I am a Front End Developer with Shopify Plus Support ➕ <br>
+💪 I used to run a gym, and love golfing. ⛳️ <br>
 

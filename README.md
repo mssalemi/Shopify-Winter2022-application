@@ -37,12 +37,12 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 👨‍💻 I am a Front End Developer with Shopify Plus Support ➕ <br>
 💪 Outside of coding, you can catch me working out or golfing ⛳️ <br>
 
-💻 const mehdi = {  <br>
+<!-- 💻 const mehdi = {  <br>
 💻         hobbies: ["coding", "coding", "coding", "coding", ".... did I say coding?", "golf", "soccer", "working out"],<br>
 💻         currentRole: "Senior Support Specialist - Front End Developer (Shopify Plus),<br> 
 💻         favoriteMovie: "Inception",<br>
 💻         favroiteFramework: "React JS",<br>
-💻 }:
+💻 }: -->
 
 
 

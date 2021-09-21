@@ -25,6 +25,11 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 
 ![Screen Shot 2021-09-15 at 11 24 32 AM](https://user-images.githubusercontent.com/16329347/133462430-c3a58d6f-12dd-4369-8688-2cba4ee28013.png)
 
+## Key Code Sections 
+- <a href="https://github.com/mssalemi/fed-internship-shopify-winter2022-application/blob/master/src/App.js">App.js<a/>
+- <a href="https://github.com/mssalemi/fed-internship-shopify-winter2022-application/blob/master/src/HomePage.jsx">Homepage.js<a/>
+- <a href="https://github.com/mssalemi/fed-internship-shopify-winter2022-application/blob/master/src/SharePage.jsx">Sharepage<a/>
+
 
 ## [This project has been deployed to GH-Pages and can be seen here](https://mssalemi.github.io/fed-intern-shopify).
 

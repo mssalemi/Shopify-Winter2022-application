@@ -32,6 +32,16 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 - Image Styling for large images
 - GH-pages deployment, I am not too familiar with deploying my react applications to GH-pages, and there is an error when refreshing the page, but please visit https://mssalemi.github.io/fed-intern-shopify to see project if you are recieving a 404 page. 
 
+### See my Backend Work
+- Twitter Clone
+- Built api and basic front end only using ejs files
+- Express JS + Mongo Atlas
+- User Authentication: Google OAUTH
+- Create User Account, Add/Edit/Delete Posts, Like Posts, and comments on other users posts. 
+- <a href="https://twitter-clone-mehdi-sei.herokuapp.com/">Twitter Clone App</a>
+- Ping me on Slack @MedxMan if you want to see the code to, currnetly its deployed to heroku. 
+- I plan to make the api better and use React JS in the front end. 
+
 # About Me
 👋 I'm Mehdi Salemi, I am a full-stack web developer 💻 <br>
 👨‍💻 I am a Front End Developer with Shopify Plus Support ➕ <br>

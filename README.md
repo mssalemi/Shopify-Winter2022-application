@@ -44,7 +44,7 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 - User Authentication: Google OAUTH
 - Create User Account, Add/Edit/Delete Posts, Like Posts, and comments on other users posts. 
 - <a href="https://twitter-clone-mehdi-sei.herokuapp.com/">Twitter Clone App</a>
-- <a href="https://github.com/mssalemi/sei-project-2-twitter-clone/edit/main/README.md">Code can be seen here.</a>
+- <a href="https://github.com/mssalemi/sei-project-2-twitter-clone">Code can be seen here.</a>
 - Ping me on Slack @MedxMan if you want to see the code to, currnetly its deployed to heroku. 
 - I plan to make the api better and use React JS in the front end. 
 

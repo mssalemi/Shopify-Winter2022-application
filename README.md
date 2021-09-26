@@ -2,7 +2,7 @@
 <a href="https://mssalemi.github.io/fed-intern-shopify" target="_blank">Project can be seen here</a>
 
 ### To Hiring Manager
-I am currently enrolled in a Coding Bootcamp. at General Assembly and am working as a Senior Support Specailist - Front End Developer with Shopify Plus. This was my first time using Shopify Polaris and React Rotuer, so if these are not practice practices, then I would love to hear that in feedback so I can imporve in the future. I have only studied React a little bit during the Bootcamp so far, but will be studying it for the entire month of November, so will be better prepared for the Intership. I am extremely passionate about coding and love using react js. Please ping my on **slack @MedxMan**, I would love to hear any feedback from you as my goal is become a Front End Develeper on the Web Team, and your feedback will help my get there! With all that being said.....
+I am currently enrolled in a Coding Bootcamp at General Assembly and am working as a Senior Support Specailist - Front End Developer with Shopify Plus. This was my first time using Shopify Polaris and React Rotuer, so if these are not best practices, then I would love to hear that in feedback so I can improve in the future. I have only studied React a little bit during the Bootcamp so far, but will be studying it for the entire month of November, so will be better prepared for the Intership. I am extremely passionate about coding and love using react js. Please ping my on **slack @MedxMan**, I would love to hear any feedback from you as my goal is become a Front End Develeper on the Web Team, and your feedback will help my get there! With all that being said.....
 
 
 **This project is for my application as a Intern - Front End Web Developer at Shopify.**

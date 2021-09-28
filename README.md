@@ -34,6 +34,7 @@ User's are able to also generate a Sharable Link, by clicking on the ` ... `.
 ## [This project has been deployed to GH-Pages and can be seen here](https://mssalemi.github.io/fed-intern-shopify).
 
 ## Improvments
+- Shareable Link not working on Gh-pages - should work on localhost
 - Image Styling for large images
 - GH-pages deployment, I am not too familiar with deploying my react applications to GH-pages, and there is an error when refreshing the page, but please visit https://mssalemi.github.io/fed-intern-shopify to see project if you are recieving a 404 page. 
 
